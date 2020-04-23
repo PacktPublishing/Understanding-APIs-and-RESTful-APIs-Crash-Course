@@ -1,0 +1,3 @@
+In several lessons in this course we reference swapi.co, but it seems to be no longer maintained which is pretty unfortunate.
+
+The original author has recommended using https://pokeapi.co/ instead — it's the exact same type of website but has a different URL (and instead of Star Wars it's Pokemon).

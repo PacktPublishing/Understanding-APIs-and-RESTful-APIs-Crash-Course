@@ -1,0 +1,9 @@
+The sites that I reference in this course can be found here:
+
+https://restfulapi.net/http-methods/
+
+https://httpstatuses.com/
+
+https://swapi.co/
+
+And the awesome illustrations were created by the lovely folks and contributors at freepik.com
